@@ -1,6 +1,7 @@
 # GGE-6102-Quantitative Analysis in Geomatics
 
 Assignment 2 
+
 Applying filtering exclusively to vertical position data located in .csv file "962002Data.csv" that contains position data for a Canadian active GNSS station, and includes time(date); north, east, and vertical coordinates; and status. 
 
 The filters used include;
